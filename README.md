@@ -3,13 +3,13 @@
 ### Salvando em memória
 
 <div align='center'>
-    <img src='image-1.png' alt='Diagrama do salvamento em memória'>
+    <img src='./docs/image-1.png' alt='Diagrama do salvamento em memória'>
 </div>
 
 ### Salvando no SQLite DB com Room
 
 <div align='center'>
-    <img src='image-2.png' alt='Diagrama Room DB'>
+    <img src='./docs/image-2.png' alt='Diagrama Room DB'>
 </div>
 
 ### Configuração do Room DB
