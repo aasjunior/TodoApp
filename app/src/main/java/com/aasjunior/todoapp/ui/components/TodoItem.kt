@@ -19,8 +19,7 @@ import androidx.compose.ui.res.painterResource
 import androidx.compose.ui.unit.dp
 import androidx.compose.ui.unit.sp
 import com.aasjunior.todoapp.R
-import com.aasjunior.todoapp.domain.models.todo.Todo
-import com.aasjunior.todoapp.ui.viewmodels.TodoViewModel
+import com.aasjunior.todoapp.domain.models.entities.Todo
 import java.text.SimpleDateFormat
 import java.util.Date
 import java.util.Locale

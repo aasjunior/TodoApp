@@ -23,7 +23,7 @@ import androidx.compose.ui.Modifier
 import androidx.compose.ui.text.style.TextAlign
 import androidx.compose.ui.tooling.preview.Preview
 import androidx.compose.ui.unit.dp
-import com.aasjunior.todoapp.domain.models.todo.Todo
+import com.aasjunior.todoapp.domain.models.entities.Todo
 import com.aasjunior.todoapp.ui.components.TodoItem
 import com.aasjunior.todoapp.ui.theme.TodoAppTheme
 import com.aasjunior.todoapp.ui.viewmodels.TodoViewModel
